@@ -1,0 +1,12 @@
+pillow
+reportlab
+vtracer
+qrcode
+rembg[cpu]
+onnxruntime
+gspread
+google-auth
+rectpack
+requests
+numpy>=2.1.0,<2.2.0
+gradio
