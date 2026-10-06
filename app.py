@@ -136,4 +136,4 @@ with gr.Blocks(title="Enterprise Print Factory OS") as demo:
 
 if __name__ == "__main__":
     # REQUIRED FOR RENDER DEPLOYMENT
-    demo.launch(server_name="0.0.0.0", server_port=10000)
+   demo.launch(server_name="0.0.0.0", server_port=10000)
